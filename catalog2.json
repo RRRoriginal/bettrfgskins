@@ -1,1 +1,12 @@
-[]
+[
+{ "path": "Costumes/rrroriginal", "name": "R. R. R.",
+  "author": "R. R. R.",
+  "description": "R. R. R.",
+  "file": "rrroriginal",
+  "type": "costume",
+  "keepBase": false,
+  "boneOffsets": [
+    { "bone": "Eye_L_jnt", "x": -0.120082, "y": 0.232797, "z": 0.382156 },
+    { "bone": "Eye_R_jnt", "x": 0.120082, "y": 0.232797, "z": 0.382156 }
+  ] }
+]
